@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🔼️📃️🔽️🌐️ The official source repository for the website of the AutoPeer project, a browser extension and software library for automatically seeding files as you download/upload them from your browser or P2P client. 
